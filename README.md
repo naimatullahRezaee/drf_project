@@ -1,1 +1,2 @@
-# drf_project
+the GET method is created 
+
